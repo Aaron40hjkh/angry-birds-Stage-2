@@ -1,2 +1,2 @@
-# angry-birds-Stage-2
-nv
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
